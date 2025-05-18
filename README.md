@@ -1,4 +1,4 @@
-# Nida Menaz
+#Hii Nida Menaz
 
 Final-year Computer Science Engineering student at Visvesvaraya Technological University. I am passionate about web development, artificial intelligence, and building efficient and user-focused software solutions.
 
